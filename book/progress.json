@@ -1,0 +1,1985 @@
+{
+  "project_metadata": {
+    "project_name": "Comprehensive GST Manual",
+    "total_volumes": 2,
+    "current_volume": 1,
+    "project_start_date": "2025-01-01",
+    "target_completion_date": "2025-12-31",
+    "last_updated": "2025-01-15",
+    "overall_progress_percentage": 0,
+    "total_chapters": 8,
+    "total_pages_planned": 2500
+  },
+  "workflow_stages": {
+    "stage_definitions": [
+      {
+        "stage_id": 1,
+        "stage_name": "Not Started",
+        "stage_code": "NOT_STARTED",
+        "description": "Content writing not yet begun"
+      },
+      {
+        "stage_id": 2,
+        "stage_name": "Research in Progress",
+        "stage_code": "RESEARCH",
+        "description": "Gathering materials, case laws, and references"
+      },
+      {
+        "stage_id": 3,
+        "stage_name": "First Draft",
+        "stage_code": "DRAFT_1",
+        "description": "Initial writing phase"
+      },
+      {
+        "stage_id": 4,
+        "stage_name": "Technical Review",
+        "stage_code": "TECH_REVIEW",
+        "description": "Subject matter expert review"
+      },
+      {
+        "stage_id": 5,
+        "stage_name": "Second Draft",
+        "stage_code": "DRAFT_2",
+        "description": "Incorporating technical review feedback"
+      },
+      {
+        "stage_id": 6,
+        "stage_name": "Legal Review",
+        "stage_code": "LEGAL_REVIEW",
+        "description": "Legal accuracy verification"
+      },
+      {
+        "stage_id": 7,
+        "stage_name": "Editorial Review",
+        "stage_code": "EDITORIAL",
+        "description": "Language, grammar, and style editing"
+      },
+      {
+        "stage_id": 8,
+        "stage_name": "Final Draft",
+        "stage_code": "FINAL_DRAFT",
+        "description": "Ready for layout and design"
+      },
+      {
+        "stage_id": 9,
+        "stage_name": "Layout & Design",
+        "stage_code": "LAYOUT",
+        "description": "Formatting and page design"
+      },
+      {
+        "stage_id": 10,
+        "stage_name": "Completed",
+        "stage_code": "COMPLETED",
+        "description": "Chapter fully completed and approved"
+      }
+    ]
+  },
+  "volume_1": {
+    "volume_title": "Foundational Concepts and Charging Provisions",
+    "volume_number": 1,
+    "total_parts": 2,
+    "volume_status": "NOT_STARTED",
+    "volume_progress_percentage": 0,
+    "parts": [
+      {
+        "part_id": "A",
+        "part_title": "Introduction and Constitutional Framework",
+        "part_status": "NOT_STARTED",
+        "part_progress_percentage": 0,
+        "total_chapters": 3,
+        "page_range": "1-165",
+        "chapters": [
+          {
+            "chapter_number": 1,
+            "chapter_title": "Genesis and Evolution of GST in India",
+            "page_range": "1-45",
+            "total_pages": 45,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 18000,
+            "word_count_actual": 0,
+            "priority": "High",
+            "dependencies": [],
+            "notes": "Foundation chapter - must be completed first",
+            "sections": [
+              {
+                "section_id": "1.1",
+                "section_title": "Historical Background of Indirect Taxation in India",
+                "page_range": "1-8",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 3200,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "1.1.1",
+                    "subsection_title": "Pre-GST Indirect Tax Regime",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.1.2",
+                    "subsection_title": "Multiplicity of Taxes and Cascading Effect",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.1.3",
+                    "subsection_title": "Need for Tax Reform",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.1.4",
+                    "subsection_title": "International GST Models",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "1.2",
+                "section_title": "Constitutional Amendments for GST",
+                "page_range": "9-18",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 3600,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "1.2.1",
+                    "subsection_title": "The Constitution (101st Amendment) Act, 2016",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.2.2",
+                    "subsection_title": "Article 246A: Power to Make Laws with Respect to GST",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.2.3",
+                    "subsection_title": "Article 269A: Levy and Collection of GST on Inter-State Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.2.4",
+                    "subsection_title": "Article 279A: GST Council - Constitution and Functions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.2.5",
+                    "subsection_title": "Amendments to Article 366: Definition of Goods and Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.2.6",
+                    "subsection_title": "Seventh Schedule Amendments",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "1.3",
+                "section_title": "Objectives and Benefits of GST",
+                "page_range": "19-28",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "1.3.1",
+                    "subsection_title": "One Nation, One Tax, One Market",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 700,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.3.2",
+                    "subsection_title": "Elimination of Cascading Effect",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 700,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.3.3",
+                    "subsection_title": "Simplification of Tax Structure",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.3.4",
+                    "subsection_title": "Improved Compliance and Revenue",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 600,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.3.5",
+                    "subsection_title": "Economic Benefits and GDP Impact",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 700,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.3.6",
+                    "subsection_title": "Ease of Doing Business",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 700,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "1.4",
+                "section_title": "GST Framework and Structure",
+                "page_range": "29-45",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 6800,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "1.4.1",
+                    "subsection_title": "Dual GST Model: CGST and SGST",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1200,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.4.2",
+                    "subsection_title": "IGST: Integrated GST Mechanism",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1200,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.4.3",
+                    "subsection_title": "UTGST: Union Territory GST",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1000,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.4.4",
+                    "subsection_title": "GST Compensation Cess",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1200,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.4.5",
+                    "subsection_title": "Legislative Framework Overview",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1200,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "1.4.6",
+                    "subsection_title": "Rules, Notifications, and Circulars Hierarchy",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1000,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          },
+          {
+            "chapter_number": 2,
+            "chapter_title": "GST Council and Administration",
+            "page_range": "46-85",
+            "total_pages": 40,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 16000,
+            "word_count_actual": 0,
+            "priority": "High",
+            "dependencies": [
+              "Chapter 1"
+            ],
+            "notes": "Requires understanding of constitutional framework from Chapter 1",
+            "sections": [
+              {
+                "section_id": "2.1",
+                "section_title": "GST Council",
+                "page_range": "46-60",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 5600,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "2.1.1",
+                    "subsection_title": "Constitution and Composition",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 900,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.1.2",
+                    "subsection_title": "Chairperson and Members",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 900,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.1.3",
+                    "subsection_title": "Functions and Powers",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1000,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.1.4",
+                    "subsection_title": "Quorum and Voting Procedures",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 900,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.1.5",
+                    "subsection_title": "GST Council Decisions and Recommendations",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 1000,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.1.6",
+                    "subsection_title": "Implementation of Recommendations by States",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "2.2",
+                "section_title": "Administrative Structure",
+                "page_range": "61-72",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4800,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "2.2.1",
+                    "subsection_title": "Central Board of Indirect Taxes and Customs (CBIC)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.2.2",
+                    "subsection_title": "State GST Authorities",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.2.3",
+                    "subsection_title": "Jurisdiction of Officers",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.2.4",
+                    "subsection_title": "Powers and Functions of Officers",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.2.5",
+                    "subsection_title": "Proper Officer Concept",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "2.3",
+                "section_title": "GST Network (GSTN)",
+                "page_range": "73-85",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 5200,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "2.3.1",
+                    "subsection_title": "Role and Functions of GSTN",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.3.2",
+                    "subsection_title": "Common GST Portal",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.3.3",
+                    "subsection_title": "Technology Infrastructure",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.3.4",
+                    "subsection_title": "Data Management and Security",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "2.3.5",
+                    "subsection_title": "Integration with Other Government Systems",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "chapter_number": 3,
+            "chapter_title": "Definitions and Interpretation",
+            "page_range": "86-165",
+            "total_pages": 80,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 32000,
+            "word_count_actual": 0,
+            "priority": "Medium",
+            "dependencies": [],
+            "notes": "",
+            "sections": [
+              {
+                "section_id": "3.1",
+                "section_title": "Preliminary Definitions (Section 2)",
+                "page_range": "86-100",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 6000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "3.1.1",
+                    "subsection_title": "Actionable Claim",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.1.2",
+                    "subsection_title": "Address",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.1.3",
+                    "subsection_title": "Adjudicating Authority",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.1.4",
+                    "subsection_title": "Agent",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.1.5",
+                    "subsection_title": "Appellate Authority and Appellate Tribunal",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.1.6",
+                    "subsection_title": "Assessment",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "3.2",
+                "section_title": "Critical Business Definitions",
+                "page_range": "101-125",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 10000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "3.2.1",
+                    "subsection_title": "Aggregate Turnover  Detailed Analysis",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.2.2",
+                    "subsection_title": "Business  Scope and Inclusions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.2.3",
+                    "subsection_title": "Business Vertical",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.2.4",
+                    "subsection_title": "Capital Goods",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.2.5",
+                    "subsection_title": "Casual Taxable Person",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.2.6",
+                    "subsection_title": "Certificate of Registration",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.2.7",
+                    "subsection_title": "Consideration  Forms and Types",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "3.3",
+                "section_title": "Supply-Related Definitions",
+                "page_range": "126-145",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 8000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "3.3.1",
+                    "subsection_title": "Composite Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.3.2",
+                    "subsection_title": "Mixed Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.3.3",
+                    "subsection_title": "Continuous Supply of Goods",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.3.4",
+                    "subsection_title": "Continuous Supply of Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.3.5",
+                    "subsection_title": "Exempt Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.3.6",
+                    "subsection_title": "NonTaxable Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.3.7",
+                    "subsection_title": "ZeroRated Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "3.4",
+                "section_title": "Input Tax Credit Definitions",
+                "page_range": "146-155",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "3.4.1",
+                    "subsection_title": "Input",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.4.2",
+                    "subsection_title": "Input Service",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.4.3",
+                    "subsection_title": "Input Tax",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.4.4",
+                    "subsection_title": "Input Tax Credit",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.4.5",
+                    "subsection_title": "Electronic Credit Ledger",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.4.6",
+                    "subsection_title": "Electronic Cash Ledger",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "3.5",
+                "section_title": "Other Important Definitions",
+                "page_range": "156-165",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "3.5.1",
+                    "subsection_title": "Invoice and Tax Invoice",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.5.2",
+                    "subsection_title": "Location of Supplier and Recipient",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.5.3",
+                    "subsection_title": "NonResident Taxable Person",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.5.4",
+                    "subsection_title": "Place of Business and Principal Place of Business",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.5.5",
+                    "subsection_title": "Related Persons",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.5.6",
+                    "subsection_title": "Taxable Person and Taxable Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "3.5.7",
+                    "subsection_title": "Goods and Services  Distinction",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          }
+        ]
+      },
+      {
+        "part_id": "B",
+        "part_title": "CHARGING PROVISIONS",
+        "part_status": "NOT_STARTED",
+        "part_progress_percentage": 0,
+        "total_chapters": 5,
+        "page_range": "",
+        "chapters": [
+          {
+            "chapter_number": 4,
+            "chapter_title": "Scope and Levy of GST",
+            "page_range": "166-220",
+            "total_pages": 55,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 22000,
+            "word_count_actual": 0,
+            "priority": "Medium",
+            "dependencies": [],
+            "notes": "",
+            "sections": [
+              {
+                "section_id": "4.1",
+                "section_title": "Constitutional Basis of Levy",
+                "page_range": "166-175",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "4.1.1",
+                    "subsection_title": "Legislative Competence under Article 246A",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.1.2",
+                    "subsection_title": "InterState Supplies under Article 269A",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.1.3",
+                    "subsection_title": "Territorial Jurisdiction",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "4.2",
+                "section_title": "Levy and Collection (Sections 3-6)",
+                "page_range": "176-195",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 8000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "4.2.1",
+                    "subsection_title": "Levy of CGST (Section 3 of CGST Act)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.2.2",
+                    "subsection_title": "Levy of SGST (Section 3 of SGST Act)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.2.3",
+                    "subsection_title": "Levy of IGST (Section 5 of IGST Act)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.2.4",
+                    "subsection_title": "Levy of UTGST (Section 3 of UTGST Act)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.2.5",
+                    "subsection_title": "GST Compensation Cess",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "4.3",
+                "section_title": "Taxable Event and Chargeability",
+                "page_range": "196-210",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 6000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "4.3.1",
+                    "subsection_title": "Supply as Taxable Event",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.3.2",
+                    "subsection_title": "Incidence and Levy",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.3.3",
+                    "subsection_title": "Point of Taxation",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.3.4",
+                    "subsection_title": "When GST Liability Arises",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "4.4",
+                "section_title": "Rate of Tax",
+                "page_range": "211-220",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "4.4.1",
+                    "subsection_title": "Rate Notification Framework",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.4.2",
+                    "subsection_title": "FiveTier Rate Structure (0%, 5%, 12%, 18%, 28%)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.4.3",
+                    "subsection_title": "Compensation Cess Rates",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.4.4",
+                    "subsection_title": "Rate Changes and Transitional Provisions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "4.4.5",
+                    "subsection_title": "Rate Schedule References",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          },
+          {
+            "chapter_number": 5,
+            "chapter_title": "Concept of Supply",
+            "page_range": "221-310",
+            "total_pages": 90,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 36000,
+            "word_count_actual": 0,
+            "priority": "Medium",
+            "dependencies": [],
+            "notes": "",
+            "sections": [
+              {
+                "section_id": "5.1",
+                "section_title": "Meaning and Scope of Supply (Section 7)",
+                "page_range": "221-240",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 8000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "5.1.1",
+                    "subsection_title": "Supply as Charging Provision",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.1.2",
+                    "subsection_title": "Supply of Goods",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.1.3",
+                    "subsection_title": "Supply of Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.1.4",
+                    "subsection_title": "Supply for Consideration",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.1.5",
+                    "subsection_title": "Supply in the Course or Furtherance of Business",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.1.6",
+                    "subsection_title": "Imports as Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "5.2",
+                "section_title": "Schedule I: Activities to be Treated as Supply (Even Without Consideration)",
+                "page_range": "241-260",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 8000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "5.2.1",
+                    "subsection_title": "Permanent Transfer of Business Assets",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.2.2",
+                    "subsection_title": "Supply Between Related Persons or Distinct Persons",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.2.3",
+                    "subsection_title": "Supply by Agent/Principal",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.2.4",
+                    "subsection_title": "Import of Services from Related Persons",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.2.5",
+                    "subsection_title": "Detailed Analysis with Illustrations",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.2.6",
+                    "subsection_title": "Judicial Interpretations",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "5.3",
+                "section_title": "Schedule II: Activities to be Treated as Supply of Goods or Services",
+                "page_range": "261-275",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 6000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "5.3.1",
+                    "subsection_title": "Transfer of Right in Goods",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.3.2",
+                    "subsection_title": "Land and Building Transactions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.3.3",
+                    "subsection_title": "Treatment of Goods Forming Part of Building",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.3.4",
+                    "subsection_title": "Works Contract Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.3.5",
+                    "subsection_title": "Restaurant and Outdoor Catering Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.3.6",
+                    "subsection_title": "Renting of Immovable Property",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.3.7",
+                    "subsection_title": "Construction Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "5.4",
+                "section_title": "Schedule III: Activities or Transactions Not Treated as Supply",
+                "page_range": "276-290",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 6000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "5.4.1",
+                    "subsection_title": "Services by Employee to Employer",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.4.2",
+                    "subsection_title": "Services by Court or Tribunal",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.4.3",
+                    "subsection_title": "Functions Performed by MPs, MLAs, etc.",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.4.4",
+                    "subsection_title": "Duties by Government Officials",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.4.5",
+                    "subsection_title": "Sale of Land and Building (Subject to Conditions)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.4.6",
+                    "subsection_title": "Actionable Claims (Except Lottery, Betting, Gambling)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.4.7",
+                    "subsection_title": "Gift Transactions (Subject to Limits)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "5.5",
+                "section_title": "Composite and Mixed Supplies",
+                "page_range": "291-310",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 8000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "5.5.1",
+                    "subsection_title": "Definition and Distinction",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.5.2",
+                    "subsection_title": "Principal Supply Determination",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.5.3",
+                    "subsection_title": "Tax Treatment of Composite Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.5.4",
+                    "subsection_title": "Tax Treatment of Mixed Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.5.5",
+                    "subsection_title": "Practical Examples and Case Studies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.5.6",
+                    "subsection_title": "Bundled Supplies Analysis",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "5.5.7",
+                    "subsection_title": "AAR Rulings on Composite/Mixed Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          },
+          {
+            "chapter_number": 6,
+            "chapter_title": "Exemptions and Zero-Rated Supplies",
+            "page_range": "311-385",
+            "total_pages": 75,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 30000,
+            "word_count_actual": 0,
+            "priority": "Medium",
+            "dependencies": [],
+            "notes": "",
+            "sections": [
+              {
+                "section_id": "6.1",
+                "section_title": "Exemption Framework (Section 11)",
+                "page_range": "311-325",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 6000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "6.1.1",
+                    "subsection_title": "Power to Grant Exemption",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.1.2",
+                    "subsection_title": "Absolute vs. Conditional Exemptions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.1.3",
+                    "subsection_title": "NotificationBased Exemptions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.1.4",
+                    "subsection_title": "Exemption from Whole or Part of Tax",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.1.5",
+                    "subsection_title": "Withdrawal of Exemptions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "6.2",
+                "section_title": "Exempt Supplies",
+                "page_range": "326-350",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 10000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "6.2.1",
+                    "subsection_title": "NilRated Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.2",
+                    "subsection_title": "Wholly Exempt Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.3",
+                    "subsection_title": "Exempted Goods  Notification 2/2017CT(Rate)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.4",
+                    "subsection_title": "Exempted Services  Notification 12/2017CT(Rate)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.5",
+                    "subsection_title": "Agriculture, Healthcare, Education Exemptions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.6",
+                    "subsection_title": "Financial Services Exemptions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.7",
+                    "subsection_title": "Real Estate Exemptions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.2.8",
+                    "subsection_title": "ITC Implications of Exempt Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "6.3",
+                "section_title": "Zero-Rated Supplies (Section 16 of IGST Act)",
+                "page_range": "351-385",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 14000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "6.3.1",
+                    "subsection_title": "Concept and Purpose of ZeroRating",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.2",
+                    "subsection_title": "Export of Goods",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.2.1",
+                    "subsection_title": "Physical Exports",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.2.2",
+                    "subsection_title": "Deemed Exports",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.2.3",
+                    "subsection_title": "Export Procedures",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.3",
+                    "subsection_title": "Export of Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.3.1",
+                    "subsection_title": "Conditions for Export of Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.3.2",
+                    "subsection_title": "Place of Supply Considerations",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.3.3",
+                    "subsection_title": "Payment in Convertible Foreign Exchange",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.4",
+                    "subsection_title": "Supplies to SEZ Units/Developers",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.4.1",
+                    "subsection_title": "GST Treatment of SEZ Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.4.2",
+                    "subsection_title": "Documentation Requirements",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.4.3",
+                    "subsection_title": "DTA Clearances",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.5",
+                    "subsection_title": "ZeroRating Options: Payment with Refund vs. LUT/Bond",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.6",
+                    "subsection_title": "Merchant Exports",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "6.3.7",
+                    "subsection_title": "Refund of Input Tax Credit on ZeroRated Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          },
+          {
+            "chapter_number": 7,
+            "chapter_title": "Place of Supply",
+            "page_range": "386-465",
+            "total_pages": 80,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 32000,
+            "word_count_actual": 0,
+            "priority": "Medium",
+            "dependencies": [],
+            "notes": "",
+            "sections": [
+              {
+                "section_id": "7.1",
+                "section_title": "Introduction and Importance",
+                "page_range": "386-395",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "7.1.1",
+                    "subsection_title": "Determining InterState vs. IntraState Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.1.2",
+                    "subsection_title": "IGST vs. CGST/SGST Applicability",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.1.3",
+                    "subsection_title": "Constitutional Framework (Article 269A)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "7.2",
+                "section_title": "Place of Supply of Goods (Section 10 of IGST Act)",
+                "page_range": "396-420",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 10000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "7.2.1",
+                    "subsection_title": "General Rule: Location Where Movement Terminates",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.2.2",
+                    "subsection_title": "Goods Delivered by Supplier",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.2.3",
+                    "subsection_title": "Goods Installed or Assembled",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.2.4",
+                    "subsection_title": "Goods Supplied on Board Conveyance",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.2.5",
+                    "subsection_title": "Supply Not Involving Movement",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.2.6",
+                    "subsection_title": "Bill To  Ship To Scenarios",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.2.7",
+                    "subsection_title": "Illustrations and Case Studies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "7.3",
+                "section_title": "Place of Supply of Services (Sections 12-13 of IGST Act)",
+                "page_range": "421-455",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 14000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "7.3.1",
+                    "subsection_title": "General Rule: Location of Recipient",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.2",
+                    "subsection_title": "Services to Registered Person",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.3",
+                    "subsection_title": "Services to Unregistered Person",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4",
+                    "subsection_title": "Specific Provisions for Different Services:",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.1",
+                    "subsection_title": "Immovable Property Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.2",
+                    "subsection_title": "Restaurant and Catering Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.3",
+                    "subsection_title": "Training and Performance Appraisal",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.4",
+                    "subsection_title": "Admission to Events",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.5",
+                    "subsection_title": "Passenger Transportation",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.6",
+                    "subsection_title": "Goods Transportation",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.7",
+                    "subsection_title": "Telecommunication Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.8",
+                    "subsection_title": "Banking and Financial Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.9",
+                    "subsection_title": "Insurance Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.10",
+                    "subsection_title": "Advertisement to Government",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.3.4.11",
+                    "subsection_title": "Online Information and Database Access (OIDAR)",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "7.4",
+                "section_title": "Special Scenarios and Complex Cases",
+                "page_range": "456-465",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "7.4.1",
+                    "subsection_title": "Intermediary Services",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.4.2",
+                    "subsection_title": "Multiple Locations",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.4.3",
+                    "subsection_title": "CrossBorder Supplies",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.4.4",
+                    "subsection_title": "Ecommerce Transactions",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "7.4.5",
+                    "subsection_title": "Judicial Precedents on Place of Supply",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          },
+          {
+            "chapter_number": 8,
+            "chapter_title": "Time of Supply",
+            "page_range": "466-530",
+            "total_pages": 65,
+            "status": "NOT_STARTED",
+            "assigned_to": "",
+            "start_date": null,
+            "target_completion_date": null,
+            "actual_completion_date": null,
+            "progress_percentage": 0,
+            "word_count_target": 26000,
+            "word_count_actual": 0,
+            "priority": "Medium",
+            "dependencies": [],
+            "notes": "",
+            "sections": [
+              {
+                "section_id": "8.1",
+                "section_title": "Concept and Significance",
+                "page_range": "466-475",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 4000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "8.1.1",
+                    "subsection_title": "Point of Taxation",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "8.1.2",
+                    "subsection_title": "When GST Liability Crystallizes",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "8.1.3",
+                    "subsection_title": "Importance for Compliance",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              },
+              {
+                "section_id": "8.2",
+                "section_title": "Time of Supply of Goods (Section 12 of CGST Act)",
+                "page_range": "476-500",
+                "status": "NOT_STARTED",
+                "assigned_to": "",
+                "progress_percentage": 0,
+                "word_count_target": 10000,
+                "word_count_actual": 0,
+                "subsections": [
+                  {
+                    "subsection_id": "8.2.1",
+                    "subsection_title": "General Provision: Earliest of Invoice/Payment/Removal",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "8.2.2",
+                    "subsection_title": "Date of Issue of Invoice",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "8.2.3",
+                    "subsection_title": "Date of Receipt of Payment",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "8.2.4",
+                    "subsection_title": "Date of Removal of Goods",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  },
+                  {
+                    "subsection_id": "8.2.5",
+                    "subsection_title": "Time Limit for Issuing Invoice",
+                    "status": "NOT_STARTED",
+                    "word_count_target": 800,
+                    "word_count_actual": 0
+                  }
+                ]
+              }
+            ],
+            "review_status": {
+              "technical_review_completed": false,
+              "legal_review_completed": false,
+              "editorial_review_completed": false,
+              "final_approval": false
+            },
+            "reviewer_comments": []
+          }
+        ]
+      }
+    ]
+  }
+}
